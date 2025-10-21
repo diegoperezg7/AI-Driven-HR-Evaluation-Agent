@@ -97,6 +97,8 @@ A complete recruitment process automation system combining **n8n**, **OpenAI**, 
 ## 🖼️ Visuals
 <img width="675" height="732" alt="Captura de pantalla 2025-10-19 185819" src="https://github.com/user-attachments/assets/6a8c52c9-81fa-40fc-91e8-12366d329836" />
 <img width="502" height="521" alt="image" src="https://github.com/user-attachments/assets/a5337d9f-89c9-4f48-bed9-ef0c02e9002f" />
+<img width="737" height="479" alt="image" src="https://github.com/user-attachments/assets/9eeb5e5b-d518-44a0-9a20-d081ac440135" />
+
 
 
 
